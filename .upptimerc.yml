@@ -1,36 +1,84 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: fediverses-kr # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Bluesky (AtProto)
+    url: https://bsky.app/
+  - name: 플래닛
+    url: https://planet.moe/
+  - name: 큐돈
+    url: https://qdon.space/
+  - name: 즘
+    url: https://jmm.kr/
+  - name: 유루툿
+    url: https://toot.funami.tech/
+  - name: 우리인생
+    url: https://uri.life/
+  - name: 마라탕.인생
+    url: https://maratang.life/
+  - name: 임파서블 피플
+    url: https://impossiblepeople.co.kr/
+  - name: 커리
+    url: https://kurry.social/
+  - name: 자커마스
+    url: https://occm.cc/
+  - name: 포인트리스
+    url: https://pointless.chat/
+  - name: 무리 네트워크
+    url: https://muri.network/
+  - name: 넷스피어 원
+    url: https://netsphere.one/
+  - name: 엠네트워크 마스토돈
+    url: https://mastodon.mnetwork.co.kr/
+  - name: 차돌이
+    url: https://t.chadole.com/
+  - name: 알피지 주점
+    url: https://krpgpub.net/
+  - name: 슈퍼마-켙
+    url: https://bakedbean.xyz/
+  - name: 콘오.펍
+    url: https://kono.pub/
+  - name: 티알피지
+    url: https://trpg-o.xyz/
+  - name: S'More
+    url: https://s.mysw.moe/
+  - name: 캐츠워즈 콜로세움
+    url: https://catswords.social/
+  - name: 덕스페이스
+    url: https://duk.space/
+  - name: 미스키한국
+    url: https://misskey.kr/
+    headers:
+    - "$SECRET_HEADER_1: $SECRET_HEADER_2"
+  - name: 키라링
+    url: https://k.lapy.link/
+  - name: 버터스콘
+    url: https://buttersc.one/
+  - name: 맛소스통
+    url: https://masost.one/
+  - name: 호토모에
+    url: https://hoto.moe/
+    
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: upptime.fediverses.kr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 연합우주 서버상태
+  introTitle: "한국 연합우주 서버들의 상황을 보여드립니다."
+  introMessage: [Upptime](https://github.com/upptime/upptime)을 이용한 한국 연합우주 서버상태 조회 시스템입니다.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+
+skipDeleteIssues: true
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
