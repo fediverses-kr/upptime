@@ -70,7 +70,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 연합우주 서버상태
   introTitle: "한국 연합우주 서버들의 상황을 보여드립니다."
-  introMessage: [Upptime](https://github.com/upptime/upptime)을 이용한 한국 연합우주 서버상태 조회 시스템입니다.
+  introMessage: "[Upptime](https://github.com/upptime/upptime)을 이용한 한국 연합우주 서버상태 조회 시스템입니다."
   navbar:
     - title: Status
       href: /
