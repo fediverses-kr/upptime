@@ -7,56 +7,80 @@ sites:
     url: https://bsky.app/
   - name: 플래닛
     url: https://planet.moe/
+    slug: planet.moe
   - name: 큐돈
     url: https://qdon.space/
+    slug: qdon.space
   - name: 즘
     url: https://jmm.kr/
+    slug: jmm.kr
   - name: 유루툿
     url: https://toot.funami.tech/
+    slug: toot.funami.tech
   - name: 우리인생
     url: https://uri.life/
+    slug: uri.life
   - name: 마라탕.인생
     url: https://maratang.life/
+    slug: maratang.life
   - name: 커리
     url: https://kurry.social/
+    slug: kurry.social
   - name: 자커마스
     url: https://occm.cc/
+    slug: occm.cc
   - name: 포인트리스
     url: https://pointless.chat/
+    slug: pointless.chat
   - name: 무리 네트워크
     url: https://muri.network/
+    slug: muri.network
   - name: 넷스피어 원
     url: https://netsphere.one/
+    slug: netsphere.one
   - name: 엠네트워크 마스토돈
     url: https://mastodon.mnetwork.co.kr/
+    slug: mastodon.mnetwork.co.kr
   - name: 차돌이
     url: https://t.chadole.com/
+    slug: t.chadole.com
   - name: 알피지 주점
     url: https://krpgpub.net/
+    slug: krpgpub.net
   - name: 슈퍼마-켙
     url: https://bakedbean.xyz/
+    slug: bakedbean.xyz
   - name: 콘오.펍
     url: https://kono.pub/
+    slug: kono.pub
   - name: 티알피지
     url: https://trpg-o.xyz/
+    slug: trpg-o.xyz
   - name: S'More
     url: https://s.mysw.moe/
   - name: 캐츠워즈 콜로세움
     url: https://catswords.social/
+    slug: catswords.social
   - name: 덕스페이스
     url: https://duk.space/
+    slug: duk.space
   - name: 미스키한국
     url: https://misskey.kr/
+    slug: misskey.kr
     headers:
     - "$SECRET_HEADER_1: $SECRET_HEADER_2"
   - name: 키라링
     url: https://k.lapy.link/
+    slug: k.lapy.link
   - name: 버터스콘
     url: https://buttersc.one/
+    slug: buttersc.one
   - name: 맛소스통
     url: https://masost.one/
+    slug: masost.one
   - name: 호토모에
     url: https://hoto.moe/
+    slug: hoto.moe
     
 
 
