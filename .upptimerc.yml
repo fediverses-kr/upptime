@@ -81,6 +81,9 @@ sites:
   - name: 호토모에
     url: https://hoto.moe/
     slug: hoto.moe
+  - name: 코코넥트
+    url: https:///
+    slug: kokonect.link
     
 
 
