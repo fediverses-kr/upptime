@@ -35,9 +35,13 @@ sites:
   - name: 무리 네트워크
     url: https://muri.network/
     slug: muri.network
+    headers:
+    - "$SECRET_HEADER_1: $SECRET_HEADER_2"
   - name: 넷스피어 원
     url: https://netsphere.one/
     slug: netsphere.one
+    headers:
+    - "$SECRET_HEADER_1: $SECRET_HEADER_2"
   - name: 엠네트워크 마스토돈
     url: https://mastodon.mnetwork.co.kr/
     slug: mastodon.mnetwork.co.kr
