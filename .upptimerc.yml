@@ -5,6 +5,11 @@ repo: upptime # The name of this repository
 sites:
   - name: Bluesky (AtProto)
     url: https://bsky.app/
+  - name: Bridgy Fed
+    url: https://fed.brid.gy/
+    headers: # Add no cache header due to request
+    - "Pragma: no-cache"
+    - "Cache-Control: no-cache"
   - name: 플래닛
     url: https://planet.moe/
     slug: planet.moe
