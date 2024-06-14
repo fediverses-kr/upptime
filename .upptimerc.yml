@@ -91,6 +91,12 @@ sites:
   - name: 코코넥트
     url: https://kokonect.link/
     slug: kokonect.link
+  - name: 고양이별
+    url: https://nekoplanet.xyz/
+    slug: nekoplanet.xyz
+  - name: 대피소
+    url: https://daepi.so/
+    slug: daepi.so
     
 
 
@@ -101,7 +107,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 연합우주 서버상태
-  introTitle: "한국 연합우주 서버들의 상황을 보여드립니다."
+  introTitle: "한국 연합우주 Web 서버의 상황을 보여드립니다."
   introMessage: "[Upptime](https://github.com/upptime/upptime)을 이용한 한국 연합우주 서버상태 조회 시스템입니다. 정확하지 않을 수 있으니 실시간 정보는 [연합우주 챗봇](https://sjang1.github.io/kor-fed/chatbot.html)에서 확인해주세요."
   navbar:
     - title: "서버 상태"
