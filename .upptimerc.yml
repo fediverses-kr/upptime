@@ -45,6 +45,9 @@ sites:
   - name: 엠네트워크 마스토돈
     url: https://mastodon.mnetwork.co.kr/
     slug: mastodon.mnetwork.co.kr
+  - name: 머스타드
+    url: https://mustard.blog/
+    slug: mustard.blog
   - name: 차돌이
     url: https://t.chadole.com/
     slug: t.chadole.com
