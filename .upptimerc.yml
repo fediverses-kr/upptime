@@ -97,6 +97,9 @@ sites:
   - name: 대피소
     url: https://daepi.so/
     slug: daepi.so
+  - name: 요단강 익스프레스
+    url: https://yodangang.express/
+    slug: yodangang.express
     
 
 
