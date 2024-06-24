@@ -73,9 +73,10 @@ sites:
   - name: 캐츠워즈 콜로세움
     url: https://catswords.social/
     slug: catswords.social
-  - name: 페일 블루 보이저
+  - name: 페일 블루 보이저 네트워크
     url: https://town.voyager.blue/
     slug: town.voyager.blue
+    icon: https://town.voyager.blue/packs/media/icons/favicon-48x48-6ee8c60e89adaeeba00c01285228a68a.png
   - name: 덕스페이스
     url: https://duk.space/
     slug: duk.space
